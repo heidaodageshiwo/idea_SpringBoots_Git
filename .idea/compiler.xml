@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="idea_springboots_git" />
+        <module name="springboot-datajpa" />
+        <module name="springboot-helloworld" />
+        <module name="springboot-testdruid" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="idea_springboots_git" target="1.5" />
+      <module name="springboot-datajpa" target="1.8" />
+      <module name="springboot-helloworld" target="1.8" />
+      <module name="springboot-jsp" target="1.8" />
+      <module name="springboot-testdruid" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
