@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="idea_springboots_git" />
         <module name="springboot-datajpa" />
+        <module name="springboot-fastjson" />
         <module name="springboot-helloworld" />
         <module name="springboot-testdruid" />
       </profile>
@@ -15,6 +16,7 @@
     <bytecodeTargetLevel>
       <module name="idea_springboots_git" target="1.5" />
       <module name="springboot-datajpa" target="1.8" />
+      <module name="springboot-fastjson" target="1.8" />
       <module name="springboot-helloworld" target="1.8" />
       <module name="springboot-jsp" target="1.8" />
       <module name="springboot-testdruid" target="1.8" />

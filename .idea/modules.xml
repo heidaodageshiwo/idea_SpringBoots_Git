@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/idea_springboots_git.iml" filepath="$PROJECT_DIR$/idea_springboots_git.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-datajpa/springboot-datajpa.iml" filepath="$PROJECT_DIR$/springboot-datajpa/springboot-datajpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-fastjson/springboot-fastjson.iml" filepath="$PROJECT_DIR$/springboot-fastjson/springboot-fastjson.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" filepath="$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-testdruid/springboot-testdruid.iml" filepath="$PROJECT_DIR$/springboot-testdruid/springboot-testdruid.iml" />
     </modules>
