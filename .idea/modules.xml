@@ -7,7 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-fastjson/springboot-fastjson.iml" filepath="$PROJECT_DIR$/springboot-fastjson/springboot-fastjson.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" filepath="$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-lanjieqi/springboot-lanjieqi.iml" filepath="$PROJECT_DIR$/springboot-lanjieqi/springboot-lanjieqi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot-lanjieqi/springboot-lanjieqi.iml" filepath="$PROJECT_DIR$/springboot-lanjieqi/springboot-lanjieqi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mvcstatic_img/springboot-mvcstatic_img.iml" filepath="$PROJECT_DIR$/springboot-mvcstatic_img/springboot-mvcstatic_img.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-requestlog/springboot-requestlog.iml" filepath="$PROJECT_DIR$/springboot-requestlog/springboot-requestlog.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-testdruid/springboot-testdruid.iml" filepath="$PROJECT_DIR$/springboot-testdruid/springboot-testdruid.iml" />
     </modules>
   </component>

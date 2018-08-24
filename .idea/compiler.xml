@@ -12,6 +12,8 @@
         <module name="springboot-fastjson" />
         <module name="springboot-helloworld" />
         <module name="springboot-lanjieqi" />
+        <module name="springboot-mvcstatic_img" />
+        <module name="springboot-requestlog" />
         <module name="springboot-testdruid" />
       </profile>
     </annotationProcessing>
@@ -23,6 +25,8 @@
       <module name="springboot-helloworld" target="1.8" />
       <module name="springboot-jsp" target="1.8" />
       <module name="springboot-lanjieqi" target="1.8" />
+      <module name="springboot-mvcstatic_img" target="1.8" />
+      <module name="springboot-requestlog" target="1.8" />
       <module name="springboot-testdruid" target="1.8" />
     </bytecodeTargetLevel>
   </component>

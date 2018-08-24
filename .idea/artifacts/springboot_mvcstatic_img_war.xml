@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springboot-mvcstatic_img:war">
+    <output-path>$PROJECT_DIR$/springboot-mvcstatic_img/target</output-path>
+    <root id="archive" name="springboot-mvcstatic_img-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springboot-mvcstatic_img:war exploded" />
+    </root>
+  </artifact>
+</component>
