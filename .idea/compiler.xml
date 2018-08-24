@@ -9,6 +9,7 @@
         <module name="chapter6" />
         <module name="idea_springboots_git" />
         <module name="springboot-datajpa" />
+        <module name="springboot-datajpa_example" />
         <module name="springboot-fastjson" />
         <module name="springboot-helloworld" />
         <module name="springboot-lanjieqi" />
@@ -24,6 +25,7 @@
       <module name="chapter6" target="1.5" />
       <module name="idea_springboots_git" target="1.5" />
       <module name="springboot-datajpa" target="1.8" />
+      <module name="springboot-datajpa_example" target="1.8" />
       <module name="springboot-fastjson" target="1.8" />
       <module name="springboot-helloworld" target="1.8" />
       <module name="springboot-jsp" target="1.8" />

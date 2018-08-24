@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/springboot-datajpa_example" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-jsp" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-lanjieqi" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-logback_peizhi" />
@@ -23,6 +24,7 @@
         <option value="$PROJECT_DIR$/springboot-sevlet/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-upload/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-logback_peizhi/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-datajpa_example/pom.xml" />
       </list>
     </option>
   </component>
