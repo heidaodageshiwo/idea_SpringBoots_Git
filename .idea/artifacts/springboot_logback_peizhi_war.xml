@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springboot-logback_peizhi:war">
+    <output-path>$PROJECT_DIR$/springboot-logback_peizhi/target</output-path>
+    <root id="archive" name="springboot-logback_peizhi-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springboot-logback_peizhi:war exploded" />
+    </root>
+  </artifact>
+</component>
