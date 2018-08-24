@@ -5,6 +5,7 @@
     <file type="web" url="file://$PROJECT_DIR$/springboot-lanjieqi" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-mvcstatic_img" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-requestlog" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot-sevlet" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -17,6 +18,7 @@
         <option value="$PROJECT_DIR$/springboot-lanjieqi/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-requestlog/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-mvcstatic_img/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-sevlet/pom.xml" />
       </list>
     </option>
   </component>

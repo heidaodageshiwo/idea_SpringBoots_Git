@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springboot-sevlet:war">
+    <output-path>$PROJECT_DIR$/springboot-sevlet/target</output-path>
+    <root id="archive" name="springboot-sevlet-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springboot-sevlet:war exploded" />
+    </root>
+  </artifact>
+</component>
