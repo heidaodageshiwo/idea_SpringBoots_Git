@@ -3,6 +3,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/../idea_springboots_gi/springboot-websocket_test" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-datajpa_example" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot-exception_test" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-jsp" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-lanjieqi" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-logback_peizhi" />
@@ -32,6 +33,7 @@
         <option value="$PROJECT_DIR$/springboot-redis_test/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-springsecurity_test/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-websocket_test/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-exception_test/pom.xml" />
       </list>
     </option>
   </component>
