@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../idea_springboots_gi/springboot-websocket_test" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-datajpa" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-datajpa_example" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-fastjson" charset="UTF-8" />
@@ -11,7 +12,9 @@
     <file url="file://$PROJECT_DIR$/springboot-redis_test" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-requestlog" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-sevlet" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-springsecurity_test" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-testdruid" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-websocket_test" charset="UTF-8" />
   </component>
 </project>

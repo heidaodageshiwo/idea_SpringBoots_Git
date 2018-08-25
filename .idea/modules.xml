@@ -13,8 +13,10 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-redis_test/springboot-redis_test.iml" filepath="$PROJECT_DIR$/springboot-redis_test/springboot-redis_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-requestlog/springboot-requestlog.iml" filepath="$PROJECT_DIR$/springboot-requestlog/springboot-requestlog.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-sevlet/springboot-sevlet.iml" filepath="$PROJECT_DIR$/springboot-sevlet/springboot-sevlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-springsecurity_test/springboot-springsecurity_test.iml" filepath="$PROJECT_DIR$/springboot-springsecurity_test/springboot-springsecurity_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-testdruid/springboot-testdruid.iml" filepath="$PROJECT_DIR$/springboot-testdruid/springboot-testdruid.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-upload/springboot-upload.iml" filepath="$PROJECT_DIR$/springboot-upload/springboot-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-websocket_test/springboot-websocket_test.iml" filepath="$PROJECT_DIR$/springboot-websocket_test/springboot-websocket_test.iml" />
     </modules>
   </component>
 </project>

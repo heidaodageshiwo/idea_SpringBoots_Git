@@ -18,8 +18,10 @@
         <module name="springboot-redis_test" />
         <module name="springboot-requestlog" />
         <module name="springboot-sevlet" />
+        <module name="springboot-springsecurity_test" />
         <module name="springboot-testdruid" />
         <module name="springboot-upload" />
+        <module name="springboot-websocket_test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -36,8 +38,10 @@
       <module name="springboot-redis_test" target="1.8" />
       <module name="springboot-requestlog" target="1.8" />
       <module name="springboot-sevlet" target="1.8" />
+      <module name="springboot-springsecurity_test" target="1.8" />
       <module name="springboot-testdruid" target="1.8" />
       <module name="springboot-upload" target="1.8" />
+      <module name="springboot-websocket_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
