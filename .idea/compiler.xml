@@ -15,6 +15,7 @@
         <module name="springboot-lanjieqi" />
         <module name="springboot-logback_peizhi" />
         <module name="springboot-mvcstatic_img" />
+        <module name="springboot-redis_test" />
         <module name="springboot-requestlog" />
         <module name="springboot-sevlet" />
         <module name="springboot-testdruid" />
@@ -32,6 +33,7 @@
       <module name="springboot-lanjieqi" target="1.8" />
       <module name="springboot-logback_peizhi" target="1.8" />
       <module name="springboot-mvcstatic_img" target="1.8" />
+      <module name="springboot-redis_test" target="1.8" />
       <module name="springboot-requestlog" target="1.8" />
       <module name="springboot-sevlet" target="1.8" />
       <module name="springboot-testdruid" target="1.8" />

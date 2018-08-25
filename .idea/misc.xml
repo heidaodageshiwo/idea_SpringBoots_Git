@@ -6,6 +6,7 @@
     <file type="web" url="file://$PROJECT_DIR$/springboot-lanjieqi" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-logback_peizhi" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-mvcstatic_img" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot-redis_test" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-requestlog" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-sevlet" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-upload" />
@@ -25,6 +26,7 @@
         <option value="$PROJECT_DIR$/springboot-upload/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-logback_peizhi/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-datajpa_example/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-redis_test/pom.xml" />
       </list>
     </option>
   </component>
