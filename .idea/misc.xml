@@ -40,6 +40,7 @@
         <option value="$PROJECT_DIR$/springboot-multidatasources_testjpa/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-cors_kuayu_jpa/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-listener-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-lombok_test/pom.xml" />
       </list>
     </option>
   </component>
