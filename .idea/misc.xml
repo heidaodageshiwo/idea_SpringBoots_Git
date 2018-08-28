@@ -2,6 +2,7 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/../idea_springboots_gi/springboot-websocket_test" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot-cors_kuayu_jpa" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-datajpa_example" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-exception_test" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-jsp" />
@@ -36,6 +37,7 @@
         <option value="$PROJECT_DIR$/springboot-websocket_test/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-exception_test/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-multidatasources_testjpa/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-cors_kuayu_jpa/pom.xml" />
       </list>
     </option>
   </component>
