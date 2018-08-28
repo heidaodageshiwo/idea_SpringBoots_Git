@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" filepath="$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-lanjieqi/springboot-lanjieqi.iml" filepath="$PROJECT_DIR$/springboot-lanjieqi/springboot-lanjieqi.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-logback_peizhi/springboot-logback_peizhi.iml" filepath="$PROJECT_DIR$/springboot-logback_peizhi/springboot-logback_peizhi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-multidatasources_testjpa/springboot-multidatasources_testjpa.iml" filepath="$PROJECT_DIR$/springboot-multidatasources_testjpa/springboot-multidatasources_testjpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-mvcstatic_img/springboot-mvcstatic_img.iml" filepath="$PROJECT_DIR$/springboot-mvcstatic_img/springboot-mvcstatic_img.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-redis_test/springboot-redis_test.iml" filepath="$PROJECT_DIR$/springboot-redis_test/springboot-redis_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-requestlog/springboot-requestlog.iml" filepath="$PROJECT_DIR$/springboot-requestlog/springboot-requestlog.iml" />

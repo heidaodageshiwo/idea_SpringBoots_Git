@@ -7,6 +7,7 @@
     <file type="web" url="file://$PROJECT_DIR$/springboot-jsp" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-lanjieqi" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-logback_peizhi" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot-multidatasources_testjpa" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-mvcstatic_img" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-redis_test" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-requestlog" />
@@ -34,6 +35,7 @@
         <option value="$PROJECT_DIR$/springboot-springsecurity_test/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-websocket_test/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-exception_test/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-multidatasources_testjpa/pom.xml" />
       </list>
     </option>
   </component>
