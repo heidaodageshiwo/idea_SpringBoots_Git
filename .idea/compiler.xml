@@ -20,6 +20,7 @@
         <module name="springboot-lombok_test" />
         <module name="springboot-multidatasources_testjpa" />
         <module name="springboot-mvcstatic_img" />
+        <module name="springboot-profile" />
         <module name="springboot-redis_test" />
         <module name="springboot-requestlog" />
         <module name="springboot-sevlet" />
@@ -45,6 +46,7 @@
       <module name="springboot-lombok_test" target="1.8" />
       <module name="springboot-multidatasources_testjpa" target="1.8" />
       <module name="springboot-mvcstatic_img" target="1.8" />
+      <module name="springboot-profile" target="1.8" />
       <module name="springboot-redis_test" target="1.8" />
       <module name="springboot-requestlog" target="1.8" />
       <module name="springboot-sevlet" target="1.8" />
