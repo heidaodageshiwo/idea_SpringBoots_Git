@@ -36,6 +36,7 @@
         <module name="springboot-springsecurity_test" />
         <module name="springboot-testdruid" />
         <module name="springboot-upload" />
+        <module name="springboot-websocket-chat" />
         <module name="springboot-websocket_test" />
       </profile>
     </annotationProcessing>
@@ -73,6 +74,7 @@
       <module name="springboot-springsecurity_test" target="1.8" />
       <module name="springboot-testdruid" target="1.8" />
       <module name="springboot-upload" target="1.8" />
+      <module name="springboot-websocket-chat" target="1.8" />
       <module name="springboot-websocket_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>

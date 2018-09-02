@@ -31,6 +31,7 @@
     <file url="file://$PROJECT_DIR$/springboot-springsecurity_test" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-testdruid" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-websocket-chat" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-websocket_test" charset="UTF-8" />
   </component>
 </project>
