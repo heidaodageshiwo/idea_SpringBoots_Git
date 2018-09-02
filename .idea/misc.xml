@@ -42,6 +42,8 @@
         <option value="$PROJECT_DIR$/springboot-listener-jpa/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-lombok_test/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-profile/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-quartz01/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-quartz02/pom.xml" />
       </list>
     </option>
   </component>
