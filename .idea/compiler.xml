@@ -8,6 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="chapter6" />
         <module name="idea_springboots_git" />
+        <module name="rabbitmq-common (1)" />
+        <module name="rabbitmq-common (2)" />
+        <module name="rabbitmq-consumer (1)" />
+        <module name="rabbitmq-consumer (2)" />
+        <module name="rabbitmq-consumer-node2" />
+        <module name="rabbitmq-provider (1)" />
+        <module name="rabbitmq-provider (2)" />
         <module name="springboot-cors_kuayu_jpa" />
         <module name="springboot-datajpa" />
         <module name="springboot-datajpa_example" />
@@ -23,7 +30,6 @@
         <module name="springboot-profile" />
         <module name="springboot-quartz01" />
         <module name="springboot-quartz02" />
-        <module name="springboot-rabbitmq01" />
         <module name="springboot-redis_test" />
         <module name="springboot-requestlog" />
         <module name="springboot-sevlet" />
@@ -36,6 +42,13 @@
     <bytecodeTargetLevel>
       <module name="chapter6" target="1.5" />
       <module name="idea_springboots_git" target="1.5" />
+      <module name="rabbitmq-common (1)" target="1.8" />
+      <module name="rabbitmq-common (2)" target="1.8" />
+      <module name="rabbitmq-consumer (1)" target="1.8" />
+      <module name="rabbitmq-consumer (2)" target="1.8" />
+      <module name="rabbitmq-consumer-node2" target="1.8" />
+      <module name="rabbitmq-provider (1)" target="1.8" />
+      <module name="rabbitmq-provider (2)" target="1.8" />
       <module name="springboot-cors_kuayu_jpa" target="1.8" />
       <module name="springboot-datajpa" target="1.8" />
       <module name="springboot-datajpa_example" target="1.8" />
@@ -53,6 +66,7 @@
       <module name="springboot-quartz01" target="1.8" />
       <module name="springboot-quartz02" target="1.8" />
       <module name="springboot-rabbitmq01" target="1.8" />
+      <module name="springboot-rabbitmq02" target="1.8" />
       <module name="springboot-redis_test" target="1.8" />
       <module name="springboot-requestlog" target="1.8" />
       <module name="springboot-sevlet" target="1.8" />

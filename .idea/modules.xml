@@ -3,6 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/idea_springboots_git.iml" filepath="$PROJECT_DIR$/idea_springboots_git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq01/rabbitmq-common/rabbitmq-common (1).iml" filepath="$PROJECT_DIR$/springboot-rabbitmq01/rabbitmq-common/rabbitmq-common (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq02/rabbitmq-common/rabbitmq-common (2).iml" filepath="$PROJECT_DIR$/springboot-rabbitmq02/rabbitmq-common/rabbitmq-common (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq01/rabbitmq-consumer/rabbitmq-consumer (1).iml" filepath="$PROJECT_DIR$/springboot-rabbitmq01/rabbitmq-consumer/rabbitmq-consumer (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq02/rabbitmq-consumer/rabbitmq-consumer (2).iml" filepath="$PROJECT_DIR$/springboot-rabbitmq02/rabbitmq-consumer/rabbitmq-consumer (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq02/rabbitmq-consumer-node2/rabbitmq-consumer-node2.iml" filepath="$PROJECT_DIR$/springboot-rabbitmq02/rabbitmq-consumer-node2/rabbitmq-consumer-node2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq01/rabbitmq-provider/rabbitmq-provider (1).iml" filepath="$PROJECT_DIR$/springboot-rabbitmq01/rabbitmq-provider/rabbitmq-provider (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq02/rabbitmq-provider/rabbitmq-provider (2).iml" filepath="$PROJECT_DIR$/springboot-rabbitmq02/rabbitmq-provider/rabbitmq-provider (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-cors_kuayu_jpa/springboot-cors_kuayu_jpa.iml" filepath="$PROJECT_DIR$/springboot-cors_kuayu_jpa/springboot-cors_kuayu_jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-datajpa/springboot-datajpa.iml" filepath="$PROJECT_DIR$/springboot-datajpa/springboot-datajpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-datajpa_example/springboot-datajpa_example.iml" filepath="$PROJECT_DIR$/springboot-datajpa_example/springboot-datajpa_example.iml" />
