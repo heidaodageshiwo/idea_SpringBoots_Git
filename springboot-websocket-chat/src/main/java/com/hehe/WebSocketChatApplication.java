@@ -24,7 +24,7 @@ public class WebSocketChatApplication {
     }
 
     /**
-     * 聊天界面http://localhost:8080/index?username=fdsa
+     * 聊天界面http://localhost:8080/index?username=fdsa11
      */
     @GetMapping("/index")
     public ModelAndView index(String username, String password, HttpServletRequest request) throws UnknownHostException {
