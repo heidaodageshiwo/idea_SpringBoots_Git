@@ -47,6 +47,10 @@
         <option value="$PROJECT_DIR$/springboot-rabbitmq01/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-rabbitmq02/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-websocket-chat/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-error-controller/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-error-handler/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mybatis01/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-web-thymeleaf01/pom.xml" />
       </list>
     </option>
   </component>

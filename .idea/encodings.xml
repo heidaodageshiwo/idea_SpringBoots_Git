@@ -4,6 +4,8 @@
     <file url="file://$PROJECT_DIR$/springboot-cors_kuayu_jpa" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-datajpa" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-datajpa_example" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-error-controller" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-error-handler" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-exception_test" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-fastjson" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-helloworld" charset="UTF-8" />
@@ -13,6 +15,7 @@
     <file url="file://$PROJECT_DIR$/springboot-lombok_test" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-multidatasources_testjpa" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-mvcstatic_img" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-mybatis01" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-profile" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-quartz01" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-quartz02" charset="UTF-8" />
@@ -31,6 +34,7 @@
     <file url="file://$PROJECT_DIR$/springboot-springsecurity_test" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-testdruid" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-web-thymeleaf01" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-websocket-chat" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-websocket_test" charset="UTF-8" />
   </component>

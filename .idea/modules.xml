@@ -13,6 +13,8 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-cors_kuayu_jpa/springboot-cors_kuayu_jpa.iml" filepath="$PROJECT_DIR$/springboot-cors_kuayu_jpa/springboot-cors_kuayu_jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-datajpa/springboot-datajpa.iml" filepath="$PROJECT_DIR$/springboot-datajpa/springboot-datajpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-datajpa_example/springboot-datajpa_example.iml" filepath="$PROJECT_DIR$/springboot-datajpa_example/springboot-datajpa_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-error-controller/springboot-error-controller.iml" filepath="$PROJECT_DIR$/springboot-error-controller/springboot-error-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-error-handler/springboot-error-handler.iml" filepath="$PROJECT_DIR$/springboot-error-handler/springboot-error-handler.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-exception_test/springboot-exception_test.iml" filepath="$PROJECT_DIR$/springboot-exception_test/springboot-exception_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-fastjson/springboot-fastjson.iml" filepath="$PROJECT_DIR$/springboot-fastjson/springboot-fastjson.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" filepath="$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" />
@@ -22,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-lombok_test/springboot-lombok_test.iml" filepath="$PROJECT_DIR$/springboot-lombok_test/springboot-lombok_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-multidatasources_testjpa/springboot-multidatasources_testjpa.iml" filepath="$PROJECT_DIR$/springboot-multidatasources_testjpa/springboot-multidatasources_testjpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-mvcstatic_img/springboot-mvcstatic_img.iml" filepath="$PROJECT_DIR$/springboot-mvcstatic_img/springboot-mvcstatic_img.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis01/springboot-mybatis01.iml" filepath="$PROJECT_DIR$/springboot-mybatis01/springboot-mybatis01.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-profile/springboot-profile.iml" filepath="$PROJECT_DIR$/springboot-profile/springboot-profile.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-quartz01/springboot-quartz01.iml" filepath="$PROJECT_DIR$/springboot-quartz01/springboot-quartz01.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-quartz02/springboot-quartz02.iml" filepath="$PROJECT_DIR$/springboot-quartz02/springboot-quartz02.iml" />
@@ -33,6 +36,7 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-springsecurity_test/springboot-springsecurity_test.iml" filepath="$PROJECT_DIR$/springboot-springsecurity_test/springboot-springsecurity_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-testdruid/springboot-testdruid.iml" filepath="$PROJECT_DIR$/springboot-testdruid/springboot-testdruid.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-upload/springboot-upload.iml" filepath="$PROJECT_DIR$/springboot-upload/springboot-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-web-thymeleaf01/springboot-web-thymeleaf01.iml" filepath="$PROJECT_DIR$/springboot-web-thymeleaf01/springboot-web-thymeleaf01.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-websocket-chat/springboot-websocket-chat.iml" filepath="$PROJECT_DIR$/springboot-websocket-chat/springboot-websocket-chat.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-websocket_test/springboot-websocket_test.iml" filepath="$PROJECT_DIR$/springboot-websocket_test/springboot-websocket_test.iml" />
     </modules>

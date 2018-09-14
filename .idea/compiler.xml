@@ -18,6 +18,8 @@
         <module name="springboot-cors_kuayu_jpa" />
         <module name="springboot-datajpa" />
         <module name="springboot-datajpa_example" />
+        <module name="springboot-error-controller" />
+        <module name="springboot-error-handler" />
         <module name="springboot-exception_test" />
         <module name="springboot-fastjson" />
         <module name="springboot-helloworld" />
@@ -27,6 +29,7 @@
         <module name="springboot-lombok_test" />
         <module name="springboot-multidatasources_testjpa" />
         <module name="springboot-mvcstatic_img" />
+        <module name="springboot-mybatis01" />
         <module name="springboot-profile" />
         <module name="springboot-quartz01" />
         <module name="springboot-quartz02" />
@@ -36,6 +39,7 @@
         <module name="springboot-springsecurity_test" />
         <module name="springboot-testdruid" />
         <module name="springboot-upload" />
+        <module name="springboot-web-thymeleaf01" />
         <module name="springboot-websocket-chat" />
         <module name="springboot-websocket_test" />
       </profile>
@@ -53,6 +57,8 @@
       <module name="springboot-cors_kuayu_jpa" target="1.8" />
       <module name="springboot-datajpa" target="1.8" />
       <module name="springboot-datajpa_example" target="1.8" />
+      <module name="springboot-error-controller" target="1.8" />
+      <module name="springboot-error-handler" target="1.8" />
       <module name="springboot-exception_test" target="1.8" />
       <module name="springboot-fastjson" target="1.8" />
       <module name="springboot-helloworld" target="1.8" />
@@ -63,6 +69,7 @@
       <module name="springboot-lombok_test" target="1.8" />
       <module name="springboot-multidatasources_testjpa" target="1.8" />
       <module name="springboot-mvcstatic_img" target="1.8" />
+      <module name="springboot-mybatis01" target="1.8" />
       <module name="springboot-profile" target="1.8" />
       <module name="springboot-quartz01" target="1.8" />
       <module name="springboot-quartz02" target="1.8" />
@@ -74,6 +81,7 @@
       <module name="springboot-springsecurity_test" target="1.8" />
       <module name="springboot-testdruid" target="1.8" />
       <module name="springboot-upload" target="1.8" />
+      <module name="springboot-web-thymeleaf01" target="1.8" />
       <module name="springboot-websocket-chat" target="1.8" />
       <module name="springboot-websocket_test" target="1.8" />
     </bytecodeTargetLevel>
