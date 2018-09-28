@@ -51,6 +51,8 @@
         <option value="$PROJECT_DIR$/springboot-error-handler/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-mybatis01/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-web-thymeleaf01/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-docker/pom.xml" />
+        <option value="$PROJECT_DIR$/tomcat/pom.xml" />
       </list>
     </option>
   </component>

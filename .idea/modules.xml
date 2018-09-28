@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq02/rabbitmq-consumer-node2/rabbitmq-consumer-node2.iml" filepath="$PROJECT_DIR$/springboot-rabbitmq02/rabbitmq-consumer-node2/rabbitmq-consumer-node2.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq01/rabbitmq-provider/rabbitmq-provider (1).iml" filepath="$PROJECT_DIR$/springboot-rabbitmq01/rabbitmq-provider/rabbitmq-provider (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq02/rabbitmq-provider/rabbitmq-provider (2).iml" filepath="$PROJECT_DIR$/springboot-rabbitmq02/rabbitmq-provider/rabbitmq-provider (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-docker/spring-boot-docker.iml" filepath="$PROJECT_DIR$/spring-boot-docker/spring-boot-docker.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-cors_kuayu_jpa/springboot-cors_kuayu_jpa.iml" filepath="$PROJECT_DIR$/springboot-cors_kuayu_jpa/springboot-cors_kuayu_jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-datajpa/springboot-datajpa.iml" filepath="$PROJECT_DIR$/springboot-datajpa/springboot-datajpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-datajpa_example/springboot-datajpa_example.iml" filepath="$PROJECT_DIR$/springboot-datajpa_example/springboot-datajpa_example.iml" />
@@ -39,6 +40,7 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-web-thymeleaf01/springboot-web-thymeleaf01.iml" filepath="$PROJECT_DIR$/springboot-web-thymeleaf01/springboot-web-thymeleaf01.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-websocket-chat/springboot-websocket-chat.iml" filepath="$PROJECT_DIR$/springboot-websocket-chat/springboot-websocket-chat.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-websocket_test/springboot-websocket_test.iml" filepath="$PROJECT_DIR$/springboot-websocket_test/springboot-websocket_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomcat/tomcat.iml" filepath="$PROJECT_DIR$/tomcat/tomcat.iml" />
     </modules>
   </component>
 </project>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spring-boot-docker" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-cors_kuayu_jpa" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-datajpa" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-datajpa_example" charset="UTF-8" />
@@ -37,5 +38,6 @@
     <file url="file://$PROJECT_DIR$/springboot-web-thymeleaf01" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-websocket-chat" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-websocket_test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tomcat" charset="UTF-8" />
   </component>
 </project>

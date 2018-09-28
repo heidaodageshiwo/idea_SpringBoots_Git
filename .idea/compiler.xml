@@ -15,6 +15,7 @@
         <module name="rabbitmq-consumer-node2" />
         <module name="rabbitmq-provider (1)" />
         <module name="rabbitmq-provider (2)" />
+        <module name="spring-boot-docker" />
         <module name="springboot-cors_kuayu_jpa" />
         <module name="springboot-datajpa" />
         <module name="springboot-datajpa_example" />
@@ -42,6 +43,7 @@
         <module name="springboot-web-thymeleaf01" />
         <module name="springboot-websocket-chat" />
         <module name="springboot-websocket_test" />
+        <module name="tomcat" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -54,6 +56,7 @@
       <module name="rabbitmq-consumer-node2" target="1.8" />
       <module name="rabbitmq-provider (1)" target="1.8" />
       <module name="rabbitmq-provider (2)" target="1.8" />
+      <module name="spring-boot-docker" target="1.8" />
       <module name="springboot-cors_kuayu_jpa" target="1.8" />
       <module name="springboot-datajpa" target="1.8" />
       <module name="springboot-datajpa_example" target="1.8" />
@@ -84,6 +87,7 @@
       <module name="springboot-web-thymeleaf01" target="1.8" />
       <module name="springboot-websocket-chat" target="1.8" />
       <module name="springboot-websocket_test" target="1.8" />
+      <module name="tomcat" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
