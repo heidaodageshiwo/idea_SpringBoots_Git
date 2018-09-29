@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="chapter6" />
+        <module name="dockercompose-springboot-mysql-nginx" />
+        <module name="dockercompose-springboot-mysql-nginxs" />
         <module name="idea_springboots_git" />
         <module name="rabbitmq-common (1)" />
         <module name="rabbitmq-common (2)" />
@@ -48,6 +50,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="chapter6" target="1.5" />
+      <module name="dockercompose-springboot-mysql-nginx" target="1.8" />
+      <module name="dockercompose-springboot-mysql-nginxs" target="1.8" />
       <module name="idea_springboots_git" target="1.5" />
       <module name="rabbitmq-common (1)" target="1.8" />
       <module name="rabbitmq-common (2)" target="1.8" />

@@ -53,6 +53,8 @@
         <option value="$PROJECT_DIR$/springboot-web-thymeleaf01/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-docker/pom.xml" />
         <option value="$PROJECT_DIR$/tomcat/pom.xml" />
+        <option value="$PROJECT_DIR$/dockercompose-springboot-mysql-nginx/pom.xml" />
+        <option value="$PROJECT_DIR$/dockercompose-springboot-mysql-nginxs/pom.xml" />
       </list>
     </option>
   </component>

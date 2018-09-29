@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/dockercompose-springboot-mysql-nginx/dockercompose-springboot-mysql-nginx.iml" filepath="$PROJECT_DIR$/dockercompose-springboot-mysql-nginx/dockercompose-springboot-mysql-nginx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dockercompose-springboot-mysql-nginxs/dockercompose-springboot-mysql-nginxs.iml" filepath="$PROJECT_DIR$/dockercompose-springboot-mysql-nginxs/dockercompose-springboot-mysql-nginxs.iml" />
       <module fileurl="file://$PROJECT_DIR$/idea_springboots_git.iml" filepath="$PROJECT_DIR$/idea_springboots_git.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq01/rabbitmq-common/rabbitmq-common (1).iml" filepath="$PROJECT_DIR$/springboot-rabbitmq01/rabbitmq-common/rabbitmq-common (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq02/rabbitmq-common/rabbitmq-common (2).iml" filepath="$PROJECT_DIR$/springboot-rabbitmq02/rabbitmq-common/rabbitmq-common (2).iml" />
